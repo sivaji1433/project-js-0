@@ -1,0 +1,32 @@
+body {
+    background-color: #338ee9;
+  }
+  
+  .card {
+    border-radius: 20px;
+  }
+  
+  #typingArea {
+    font-size: 1.2rem;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  textarea:disabled {
+    background-color: #e7eaecd8;
+  }
+  
+  #passage {
+    font-size: 1.25rem;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  .text-center {
+    font-weight: bold;
+  }
+  
+  button {
+    width: 48%;
+  }
+  
